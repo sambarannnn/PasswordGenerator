@@ -75,6 +75,8 @@ public class Generator {
                 randoms[i] = random.nextInt(password.length());
             }
         }
+        //to ensure atleast character one of the selected criteria is filled.
+        
         if(containsLowerCase)
             password.replace(randoms[0],randoms[0]+1, String.valueOf(lowercase.charAt(random.nextInt(lowercase.length()))));
         if(containsUpperCase)
