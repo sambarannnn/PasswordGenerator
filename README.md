@@ -8,6 +8,8 @@ A program which generates secure 20 character passwords based on iCloud's Keycha
 
 ## Usage
 
+java Main
+
 						Welcome To Password Generator!
 
 Include Lowercase letters? (y/n) : y
