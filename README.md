@@ -2,10 +2,6 @@
  
 A program which generates secure 20 character passwords based on iCloud's Keychain Access model.
 
-## Password format
-
- ******-******-******
-
 ## Usage
 
 java Main
