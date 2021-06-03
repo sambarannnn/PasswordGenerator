@@ -2,7 +2,7 @@
  
  A program which generates secure 20 character passwords based on iCloud's Keychain Access model.
  
- Password format : ******-******-****** .
+ Password format : ****** - ****** - ****** .
  
  User can choose a combination of lowercase characters, uppercase characters, digits and symbols as well.
  
